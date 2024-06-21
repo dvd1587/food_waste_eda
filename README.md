@@ -42,11 +42,10 @@ Region-wise Analysis: <br/>
 <a href="https://imgur.com/tpsfKLk"><img src="https://i.imgur.com/tpsfKLk.jpg" alt="Region-wise Analysis" /></a>  
 <br />
 <br />
-Region-wise Categories Analysis: <br/>
-<a href="https://imgur.com/iatKLP8"><img src="https://i.imgur.com/iatKLP8.jpg" alt="Region-wise Categories Analysis" /></a>
-<br />
-<br />
 Outlier Analysis: <br/>
 <a href="https://imgur.com/z6gKDB3"><img src="https://i.imgur.com/z6gKDB3.jpg" alt="Outlier Analysis" /></a> 
-  
+<br />
+<br />
+Region-wise Categories Analysis: <br/>
+<a href="https://imgur.com/iatKLP8"><img src="https://i.imgur.com/iatKLP8.jpg" alt="Region-wise Categories Analysis" /></a>
 </p>

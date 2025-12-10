@@ -14,38 +14,38 @@ Food waste is one of the pressing issues of our time. On one hand while there st
 
 <p align="center">
 Data Preparation & Cleaning: <br/>
-<a href="https://imgur.com/xJuAYra"><img src="https://i.imgur.com/xJuAYra.jpg" alt="Data Preparation & Cleaning Steps" /></a>  
+<a href="https://drive.google.com/uc?export=view&id=1jYGq_c47wnrpUojlMJbcepy4OcpBnMxB"><img src="https://drive.google.com/uc?export=view&id=1jYGq_c47wnrpUojlMJbcepy4OcpBnMxB" alt="Data Preparation & Cleaning Steps" /></a>  
 <br />
 <br />
-<a href="https://imgur.com/uFgO239"><img src="https://i.imgur.com/uFgO239.jpg" alt="Data Preparation & Cleaning Steps" /></a>
+<a href="https://drive.google.com/uc?export=view&id=1WM9G6FrD2yzZ7EMjBiPojxdi0LdZzFM9"><img src="https://drive.google.com/uc?export=view&id=1WM9G6FrD2yzZ7EMjBiPojxdi0LdZzFM9" alt="Data Preparation & Cleaning Steps" /></a>
 <br />
 <br />
-<a href="https://imgur.com/dvLmiOx"><img src="https://i.imgur.com/dvLmiOx.jpg" alt="Data Preparation & Cleaning Steps" /></a>  
+<a href="https://drive.google.com/uc?export=view&id=1966xqC6Drx_l0JMHzTucyjVEO2eKsxrR"><img src="https://drive.google.com/uc?export=view&id=1966xqC6Drx_l0JMHzTucyjVEO2eKsxrR" alt="Data Preparation & Cleaning Steps" /></a>  
 <br />
 <br />  
 Exploratory Statistical Analysis: <br/>
-<a href="https://imgur.com/lrUlHDY"><img src="https://i.imgur.com/lrUlHDY.jpg" alt="Exploratory Statistical Analysis" /></a>  
+<a href="https://drive.google.com/uc?export=view&id=1GGRfC8DdqgTRD6s4dhjyty0IdvSP9I2w"><img src="https://drive.google.com/uc?export=view&id=1GGRfC8DdqgTRD6s4dhjyty0IdvSP9I2w" alt="Exploratory Statistical Analysis" /></a>  
 <br />
 <br />
 Maximum and minimum combined estimate/capita/kg/year: <br/>
-<a href="https://imgur.com/PyhUuIJ"><img src="https://i.imgur.com/PyhUuIJ.jpg" alt="Maximum and Minimum" /></a>
+<a href="https://drive.google.com/uc?export=view&id=1ryRxa0QN8m3yU8NF4mxit8VHY4OBRXom"><img src="https://drive.google.com/uc?export=view&id=1ryRxa0QN8m3yU8NF4mxit8VHY4OBRXom" alt="Maximum and Minimum" /></a>
 <br />
 <br />
 Top Largest and Lowest Countries for combined estimate/capita/kg/year: <br/>
-<a href="https://imgur.com/lPST2gF"><img src="https://i.imgur.com/lPST2gF.jpg" alt="Largest Countries" /></a>  
+<a href="https://drive.google.com/uc?export=view&id=1cu7d3LyfYNCR-eC3_u2gw5yNpsDnFZ5o"><img src="https://drive.google.com/uc?export=view&id=1cu7d3LyfYNCR-eC3_u2gw5yNpsDnFZ5o" alt="Largest Countries" /></a>  
 <br />
 <br />
-<a href="https://imgur.com/6xuYTWj"><img src="https://i.imgur.com/6xuYTWj.jpg" alt="Lowest Countries" /></a>
+<a href="https://drive.google.com/uc?export=view&id=13kiLSI8RmhIUKvJ8ZBsgPZ3PpsTnQg6w"><img src="https://drive.google.com/uc?export=view&id=13kiLSI8RmhIUKvJ8ZBsgPZ3PpsTnQg6w" alt="Lowest Countries" /></a>
 <br />
 <br />  
 Region-wise Analysis: <br/>
-<a href="https://imgur.com/tpsfKLk"><img src="https://i.imgur.com/tpsfKLk.jpg" alt="Region-wise Analysis" /></a>  
+<a href="https://drive.google.com/uc?export=view&id=1WzxFHI5AlIapsmvmA4GEMelzlKmmwkpP"><img src="https://drive.google.com/uc?export=view&id=1WzxFHI5AlIapsmvmA4GEMelzlKmmwkpP" alt="Region-wise Analysis" /></a>  
 <br />
 <br />
 Outlier Analysis: <br/>
-<a href="https://imgur.com/z6gKDB3"><img src="https://i.imgur.com/z6gKDB3.jpg" alt="Outlier Analysis" /></a> 
+<a href="https://drive.google.com/uc?export=view&id=1L039b_jJSiKtM6rJNj5NFmwBG5ifeg78"><img src="https://drive.google.com/uc?export=view&id=1L039b_jJSiKtM6rJNj5NFmwBG5ifeg78" alt="Outlier Analysis" /></a> 
 <br />
 <br />
 Region-wise Categories Analysis: <br/>
-<a href="https://imgur.com/iatKLP8"><img src="https://i.imgur.com/iatKLP8.jpg" alt="Region-wise Categories Analysis" /></a>
+<a href="https://drive.google.com/uc?export=view&id=1E12em-Mm_ez9pTMRFSvM_SM929gebDyr"><img src="https://drive.google.com/uc?export=view&id=1E12em-Mm_ez9pTMRFSvM_SM929gebDyr" alt="Region-wise Categories Analysis" /></a>
 </p>
